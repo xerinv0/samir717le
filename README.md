@@ -1,8 +1,6 @@
 # introduction 
 hello, my name is <stronge> SamiR </stronge> <br>
-i am an <stronge>web developer</stronge> from <stronge>Bangladesh</stronge> <br>
-i am an <stronge>student</stronge>, read in class <stronge>7th</stronge> <br>
-i am <stronge>14 year old </stronge><br>
+Web developer with expertise in HTML, CSS, JavaScript, and backend technologies like Node.js and PHP. Passionate about building dynamic web apps and exploring server management and automation.
 [my website: ](https://samir717le.github.io/) https://samir717le.github.io/
 
 # 📊GitHub Stats :
