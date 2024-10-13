@@ -1,6 +1,6 @@
 # introduction 
 hello, my name is <stronge> SamiR </stronge> <br>
-Web developer with expertise in HTML, CSS, JavaScript, and backend technologies like Node.js and PHP. Passionate about building dynamic web apps and exploring server management and automation.
+Web developer with expertise in HTML, CSS, JavaScript, and backend technologies like Node.js and PHP. Passionate about building dynamic web apps and exploring server management and automation. <br>
 [my website: ](https://samir717le.github.io/) https://samir717le.github.io/
 
 # 📊GitHub Stats :
