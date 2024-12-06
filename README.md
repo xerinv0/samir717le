@@ -17,9 +17,9 @@
 Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Python, and backend technologies like Node.js and PHP. Passionate about building dynamic web apps and exploring server management and automation.
 
 - 🔧 **Backend Development & Automation**
-- 🌐 **Tech:** JavaScript, Node.js, PHP, Python, Bash Scripting, Git
+- 🌐 **Tech:** JavaScript, Node.js, PHP, Python, Bash Scripting, Git, Typescript
 - 🚀 **Learning:** Advanced JS, APIs, Cloud Automation
-- 📬 **Email:** [samir717le@gmail.com](mailto:samir717le@gmail.com)
+- 📬 **Email:** [iam@samir717le.us.kg](mailto:samir717le@gmail.com)
 - 🌐 **Website:** [letsedit.cloudns.be](https://letsedit.cloudns.be)
 
 ---
@@ -32,6 +32,7 @@ Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Pyth
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-777BB4?style=for-the-badge&logo=Typescript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
