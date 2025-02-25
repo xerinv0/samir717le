@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Welcome+to+Samir's+GitHub;Developer+%7C+Back-End+Enthusiast+%7C+Coder;Passionate+Learner+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Welcome+to+ShadowByte;++Developer+%7C+Back-End+Enthusiast;+Coder++;Passionate+Learner+%26+Innovator" alt="Typing SVG" />
 </p>
 
 ---
