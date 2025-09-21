@@ -1,14 +1,14 @@
 <!-- GitHub Profile README.md -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Welcome+to+ShadowByte;++Developer+%7C+Back-End+Enthusiast;+Coder++;Passionate+Learner+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Welcome+to+Nehxurai;++Developer+%7C+Back-End+Enthusiast;+Coder++;Passionate+Learner+%26+Innovator" alt="Typing SVG" />
 </p>
 
 ---
-
+<!--
 <p align="center">
   <img src="https://github.com/Samir717le/Samir717le/blob/main/banner.png" alt="Profile Banner" width="100%"/>
-</p>
+</p>-->
 
 ---
 
@@ -41,8 +41,8 @@ Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Pyth
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir717le&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="150em" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir717le&theme=tokyonight&hide_border=true" height="150em" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xerinv0&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="150em" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xerinv0&theme=tokyonight&hide_border=true" height="150em" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Pyth
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samir717le&theme=onestar&no-bg=true&row=1&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xerinv0&theme=onestar&no-bg=true&row=1&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 ---
