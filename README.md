@@ -19,8 +19,8 @@ Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Pyth
 - 🔧 **Backend Development & Automation**
 - 🌐 **Tech:** JavaScript, Node.js, PHP, Python, Bash Scripting, Git, Typescript
 - 🚀 **Learning:** Advanced JS, APIs, Cloud Automation
-- 📬 **Email:** [iam@samir717le.us.kg](mailto:samir717le@gmail.com)
-- 🌐 **Website:** [letsedit.cloudns.be](https://letsedit.cloudns.be)
+- 📬 **Email:** [samirthegamer717@gmail.com](mailto:samirthegamer717@gmail.com)
+- 🌐 **Website:** [Samir717le](https://letsedit.cloudns.be)
 
 ---
 
